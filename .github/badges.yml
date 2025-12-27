@@ -1,0 +1,18 @@
+# .github/badges.yml
+
+badges:
+  - name: Build Status
+    shield: "https://img.shields.io/github/actions/workflow/status/chirag127/ApexBlock-Privacy-Filter-Browser-List/ci.yml?branch=main&style=for-the-badge"
+    url: "https://github.com/chirag127/ApexBlock-Privacy-Filter-Browser-List/actions/workflows/ci.yml"
+  - name: License
+    shield: "https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=for-the-badge"
+    url: "https://creativecommons.org/licenses/by-nc/4.0/"
+  - name: TypeScript
+    shield: "https://img.shields.io/badge/TypeScript-6.x-blue.svg?style=for-the-badge&logo=typescript"
+    url: "https://www.typescriptlang.org/"
+  - name: Vite
+    shield: "https://img.shields.io/badge/Vite-7.x-purple.svg?style=for-the-badge&logo=vite"
+    url: "https://vitejs.dev/"
+  - name: Tailwind CSS
+    shield: "https://img.shields.io/badge/Tailwind%20CSS-4.x-blue.svg?style=for-the-badge&logo=tailwind-css"
+    url: "https://tailwindcss.com/"
